@@ -22,7 +22,9 @@
   "homepage": "https://github.com/babel/babel-eslint",
   "devDependencies": {
     "eslint": "^0.18.0",
+    "eslint-tester": "cellule/eslint-tester#default_config",
     "espree": "^2.0.0",
+    "find": "^0.2.2",
     "mocha": "^2.1.0"
   }
 }
